@@ -18,7 +18,7 @@ This project is part of my **Go learning journey (Day 6 Project)**, stepping int
 
 ## 🛠 Built With
 
-* **Go (Golang)**
+**Go (Golang)**
 * Standard Library (`net/http`, `encoding/json`, `io`, `fmt`)
 
 ---
@@ -64,14 +64,7 @@ The CLI will instantly reach out to the internet, grab a joke, and display the S
 ---
 
 ## 📸 Example Output
-
-```text
-😂 Fetching a random joke for you from the internet...
---------------------------------------------------
-🤔 Setup:     Why do programmers prefer dark mode?
-💡 Punchline: Because light attracts bugs.
---------------------------------------------------
-```
+<img width="879" height="200" alt="image" src="https://github.com/user-attachments/assets/2bb01d53-6527-4049-b4f6-481bfa78c77d" />
 
 ---
 
