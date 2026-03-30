@@ -1,4 +1,3 @@
-```markdown
 # 🤣 Go Random Joke Fetcher CLI (Day 6)
 
 A fun and lightweight **CLI-based Joke Fetcher built using Go (Golang)**. This tool connects to a public API over the internet, retrieves a random programming or general joke, and displays it in the terminal.
